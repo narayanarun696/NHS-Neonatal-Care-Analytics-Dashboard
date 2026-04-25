@@ -19,3 +19,6 @@ Suspected conditions
 # Visualisations Include
 Area/line chart: Admission reasons over time by Trust
 Stacked bar chart: Long Stay vs Short Stay comparisons across all Trusts
+
+# Data & Privacy
+All data used in this dashboard has been fully anonymised and does not contain any personally identifiable information (PII). This project is intended purely for educational and portfolio purposes.
